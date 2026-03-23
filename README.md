@@ -39,3 +39,5 @@ If you use the command line and have the Gradle wrapper:
   - `ui/cart/CartScreen.kt` – Cart list, subtotal, remove, “Continue shopping”.
 
 No checkout screen or payment logic is included; you can add them later.
+
+<!-- test line added for push verification -->
